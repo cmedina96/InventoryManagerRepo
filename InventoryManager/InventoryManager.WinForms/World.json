@@ -1,0 +1,30 @@
+// Represents a single World.cs instance
+{
+  /// List of Player objects
+  "Players": [
+    {
+      "Name": "Jane Doe",
+      "Health": 100,
+      "Score": 150
+    },
+    {
+      "Name": "John Smith",
+      "Health": 80,
+      "Score": 25
+    },
+    {
+      "Name": "Ima Knight",
+      "Health": 90,
+      "Score": 125
+    }
+  ],
+  /// List of Item objects, with a single property 'Name'
+  "Items": [
+    {
+      "Name": "Book"
+    },
+    {
+      "Name": "Lantern"
+    }
+  ]
+}
