@@ -7,3 +7,4 @@ C:\Users\Hiraki\Documents\School\Fall 2019\DIG4478C_Game_Design_Tools_&_Plugins\
 C:\Users\Hiraki\Documents\School\Fall 2019\DIG4478C_Game_Design_Tools_&_Plugins\InventoryManagerRepo\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.AssemblyInfo.cs
 C:\Users\Hiraki\Documents\School\Fall 2019\DIG4478C_Game_Design_Tools_&_Plugins\InventoryManagerRepo\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.dll
 C:\Users\Hiraki\Documents\School\Fall 2019\DIG4478C_Game_Design_Tools_&_Plugins\InventoryManagerRepo\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.pdb
+C:\Users\Hiraki\Documents\School\Fall 2019\DIG4478C_Game_Design_Tools_&_Plugins\InventoryManagerRepo\InventoryManager\InventoryManager.Data\obj\Debug\netstandard2.0\InventoryManager.Data.csproj.Fody.CopyLocal.cache
